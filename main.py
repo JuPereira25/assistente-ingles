@@ -19,14 +19,14 @@ def listen():
         recognizer.pause_threshold = 2
         audio = recognizer.listen(source)
     try:
-        phrase = recognizer.recognize_google(audio, language='en-us')
-        print("Você disse:" + phrase + "\n")
-        return phrase.lower()
+        frase = recognizer.recognize_google(audio, language='en-us')
+        print("Você disse:" + frase + "\n")
+        return frase.lower()
     except Exception as e:
         print("Não entendi.")
         return ""
 
-def traduzir(frase):
+def translate(frase):
     try:
         traducao = GoogleTranslator(source='en', target='pt').translate(frase)
         return traducao
@@ -45,7 +45,7 @@ if __name__ == "__main__":
                 speak("Bye bye! Encerrando o programa.")
                 break
 
-            traducao = traduzir(frase_ouvida)
+            traducao = translate(frase_ouvida)
             print("Tradução (português):", traducao)
 
             speak("Você disse: " + frase_ouvida)
