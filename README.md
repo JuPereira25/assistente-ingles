@@ -10,7 +10,7 @@ Este é um projeto simples de assistente de voz pra praticar inglês, ele escuta
 - Traduz a fala
 - e Repete a pronuncia correta
 
-##  Bibliotecas Utlizadas ##
+##  Bibliotecas Utilizadas ##
 
 -  speech_recognition - reconhecimento de fala, com suporte para diversos mecanismos e APIs, online e offline
       pip install SpeechRecognition
