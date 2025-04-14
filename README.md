@@ -1,6 +1,6 @@
 # Assistente de Voz em Python #
 
-Este é um projeto simples de assistente de voz pra praticar inglês, ele escuta o que você diz, converte sua fala em texto e responde com uma voz sintetizada.
+Este é um projeto simples de assistente de voz pra praticar inglês, ele escuta o que você diz, converte sua fala em texto, traduz o que foi falado e repete a pronuncia correta.
  
 ##  O que ele faz ##
 
