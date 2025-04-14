@@ -20,19 +20,12 @@ Este é um projeto simples de assistente de voz para praticar inglês.
       - import time
 -  deep_translator - essa biblioteca permite traduzir textos simples usando servicos como o Google Translate, deepl, pons etc..
      - pip install deep-translator
- 
+ -  difflib - é uma biblioteca padrão do python para para comparar sequencias, combinado com a classe SequenceMatcher, que identificas as partes comuns e suas diferenças.
+     - from difflib import SequenceMatcher
+
 ## Versão Python Utilizada ## 
 
 -  Python 3.11.2
-
-## Estrutura do projeto ##
-
-assistente-voz-python/
-- │
-- ├── assistente.py           # Código principal do assistente
-- ├── README.md               # arquivo de documentação
-- │
-
 
 
 
