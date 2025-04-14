@@ -1,0 +1,5 @@
+- Criação de Interface
+- Reconhecimento de Frases Inteiras
+- Gamificação
+- FeedBack de Pronuncia 
+- Aprimorar o reconhecimento do áudio
