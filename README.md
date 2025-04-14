@@ -12,13 +12,18 @@ Este é um projeto simples de assistente de voz pra praticar inglês, ele escuta
 
 ##  Bibliotecas Utilizadas ##
 
--  speech_recognition - reconhecimento de fala, com suporte para diversos mecanismos e APIs, online e offline
-      pip install SpeechRecognition
-- pyttsx3 - Conversão de texto em fala sintetizada
-      pip install pyttsx3
-- time - biblioteca padrão do python usada para controlar o tempo, delay, horários, cronômetros etc...
+-  speech_recognition - reconhecimento de fala, com suporte para diversos mecanismos e APIs, online e offline. 
+      - pip install SpeechRecognition
+-  pyttsx3 - Conversão de texto em fala sintetizada
+      - pip install pyttsx3
+-  time - biblioteca padrão do python usada para controlar o tempo, delay, horários, cronômetros etc...
+      - import time
+-  deep_translator - essa biblioteca permite traduzir textos simples usando servicos como o Google Translate, deepl, pons etc..
+     - pip install deep-translator
+ 
+## Versão Python Utilizada ## 
 
-Python 3.11.2
+-  Python 3.11.2
 
 ## Estrutura do projeto ##
 
