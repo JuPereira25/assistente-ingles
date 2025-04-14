@@ -28,10 +28,10 @@ Este é um projeto simples de assistente de voz para praticar inglês.
 ## Estrutura do projeto ##
 
 assistente-voz-python/
-│
-├── assistente.py           # Código principal do assistente
-├── README.md               # arquivo de documentação
-│
+- │
+- ├── assistente.py           # Código principal do assistente
+- ├── README.md               # arquivo de documentação
+- │
 
 
 
