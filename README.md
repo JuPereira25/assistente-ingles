@@ -8,7 +8,8 @@ Este é um projeto simples de assistente de voz para praticar inglês.
 - Converte a fala em texto usando a API do Google
 - Escreve o que foi falado
 - Traduz a fala
-- e Repete a pronuncia correta
+- Repete a pronuncia correta
+- Fala se a pronuncia está boa
 
 ##  Bibliotecas Utilizadas ##
 
