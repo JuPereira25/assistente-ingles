@@ -3,3 +3,7 @@
 - Gamificação
 - FeedBack de Pronuncia 
 - Aprimorar o reconhecimento do áudio
+
+Isaac :
+
+- Adicionar no Readme o nome das bibliotecas que voce usou no programa
